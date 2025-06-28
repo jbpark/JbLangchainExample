@@ -1,2 +1,7 @@
 openai
 google-genai
+langchain
+langchain-google-genai
+google-ai-generativelanguage>=0.6.18,<0.7.0
+google-generativeai
+langchain-community
